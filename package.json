@@ -45,7 +45,7 @@
     "interface-stream-muxer": "^0.5.4",
     "libp2p-tcp": "^0.9.1",
     "libp2p-websockets": "^0.9.1",
-    "multiaddr": "^2.1.1",
+    "multiaddr": "^2.2.0",
     "pre-commit": "^1.2.2",
     "pull-file": "^1.0.0",
     "pull-pair": "^1.1.0",
